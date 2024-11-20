@@ -25,7 +25,7 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
        npm run cypress
    ```
 
-### Cypress
+### Selenium
 
 1. **Acesse o diretório do Selenium**:
    ```bash
